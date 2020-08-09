@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test thread-count="5" name="Test1">
+    <parameter name="ScenarioName" value="Scenario1"/>
+    <classes>
+      <class name="tests.dataProviderSample"/>
+     
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test2">
+   <parameter name="ScenarioName" value="Scenario2"/>
+    <classes>
+      <class name="tests.dataProviderSample"/>
+     
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test3">
+     <parameter name="ScenarioName" value="Scenario3"/>
+    <classes>
+      <class name="tests.dataProviderSample"/>
+     
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test4">
+     <parameter name="ScenarioName" value="Scenario4"/>
+    <classes>
+      <class name="tests.dataProviderSample"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

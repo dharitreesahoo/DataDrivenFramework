@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89253" started-at="2020-08-09T17:40:07Z" finished-at="2020-08-09T17:41:36Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="33359" started-at="2020-08-09T17:40:07Z" finished-at="2020-08-09T17:40:40Z">
+      <class name="tests.dataProviderSample">
+        <test-method status="PASS" signature="test1(java.util.Map)[pri:1, instance:tests.dataProviderSample@14ba872]" name="test1" duration-ms="30047" started-at="2020-08-09T17:40:08Z" data-provider="userData" finished-at="2020-08-09T17:40:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{=, Name=dharitree}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2(java.util.Map)[pri:2, instance:tests.dataProviderSample@14ba872]" name="test2" duration-ms="2318" started-at="2020-08-09T17:40:38Z" data-provider="addressData" finished-at="2020-08-09T17:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{=, addresses=26 Nandi sunshine}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- tests.dataProviderSample -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="23293" started-at="2020-08-09T17:40:40Z" finished-at="2020-08-09T17:41:04Z">
+      <class name="tests.dataProviderSample">
+        <test-method status="PASS" signature="test1(java.util.Map)[pri:1, instance:tests.dataProviderSample@b9f472]" name="test1" duration-ms="20846" started-at="2020-08-09T17:40:40Z" data-provider="userData" finished-at="2020-08-09T17:41:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{=, Name=dharitree}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2(java.util.Map)[pri:2, instance:tests.dataProviderSample@b9f472]" name="test2" duration-ms="2353" started-at="2020-08-09T17:41:01Z" data-provider="addressData" finished-at="2020-08-09T17:41:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{=, addresses=26 Nandi sunshine}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- tests.dataProviderSample -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="13651" started-at="2020-08-09T17:41:04Z" finished-at="2020-08-09T17:41:17Z">
+      <class name="tests.dataProviderSample">
+        <test-method status="PASS" signature="test1(java.util.Map)[pri:1, instance:tests.dataProviderSample@1bbe1b6]" name="test1" duration-ms="11291" started-at="2020-08-09T17:41:04Z" data-provider="userData" finished-at="2020-08-09T17:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{=, Name=dharitree}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2(java.util.Map)[pri:2, instance:tests.dataProviderSample@1bbe1b6]" name="test2" duration-ms="2272" started-at="2020-08-09T17:41:15Z" data-provider="addressData" finished-at="2020-08-09T17:41:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{=, addresses=26 Nandi sunshine}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- tests.dataProviderSample -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="18902" started-at="2020-08-09T17:41:17Z" finished-at="2020-08-09T17:41:36Z">
+      <class name="tests.dataProviderSample">
+        <test-method status="PASS" signature="test1(java.util.Map)[pri:1, instance:tests.dataProviderSample@1ca901e]" name="test1" duration-ms="18830" started-at="2020-08-09T17:41:17Z" data-provider="userData" finished-at="2020-08-09T17:41:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{=, Name=dharitree}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- tests.dataProviderSample -->
+    </test> <!-- Test4 -->
+  </suite> <!-- Suite -->
+</testng-results>

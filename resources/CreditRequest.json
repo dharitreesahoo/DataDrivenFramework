@@ -1,0 +1,21 @@
+{
+    "TC001":{
+        "streetAddress":"21 2nd Street1",
+         "city":"New York1",
+         "state":"NY1",
+         "postalCode":"3445500000000"
+    },
+
+     "TC002":{
+        "streetAddress":"21 2nd Street2",
+         "city":"New York2",
+         "state":"NY2",
+         "postalCode":"1234111111111"
+    },
+    "TC003":{
+        "streetAddress":"21 2nd Street3",
+         "city":"New York3",
+         "state":"NY3",
+         "postalCode":"12347777777777"
+    },
+}
